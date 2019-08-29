@@ -2,7 +2,6 @@
 
 ## Requirements 
 
-* MongoDB
 * Node and NPM
 * Git (not necessary but recommended)
 
